@@ -1,6 +1,6 @@
 <h1 align="center">OpenAPI Security Scanner</h1> 
 
-## About The Project
+## About The Projectss
 
 Authorization security issues in modern web applications could not be easily picked up by security scanners. A few examples from [Shopify](https://hackerone.com/reports/980511), [LINE](https://hackerone.com/reports/698579), [NordVPN](https://hackerone.com/reports/751577). 
 One of the reasons is that the security scanners mainly looking for SQLi, XSS, RCE instead of looking for authorization security bugs, and the scanners usually do not have knowledge of how the web application is supposed to behave. That's why the majority of the authorization bugs now are mainly discovered manually.
